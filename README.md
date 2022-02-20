@@ -24,3 +24,5 @@ Class Memory berisikan :
 1. Frequency
 2. Memory Size
 3. Status CUDA
+
+Untuk masing-masing folder sudah tersedia hasil dari program yang sudah dijalankan
