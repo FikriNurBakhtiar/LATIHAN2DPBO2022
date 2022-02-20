@@ -12,3 +12,15 @@ Masing-masing folder terdiri dari 4 file:
 3. Class Memory
 4. Main
 
+Class Product berisikan :
+1. Price
+2. ID Product
+
+Class Hardware bersisikan :
+1. Brand
+2. Model
+
+Class Memory berisikan :
+1. Frequency
+2. Memory Size
+3. Status CUDA
