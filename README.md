@@ -16,7 +16,7 @@ Class Product berisikan :
 1. Price
 2. ID Product
 
-Class Hardware bersisikan :
+Class Hardware berisikan :
 1. Brand
 2. Model
 
