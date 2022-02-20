@@ -4,3 +4,11 @@
 
 
 Repository ini dibuat untuk memenuhi Latihan 2  DPBO 2022
+
+Setiap folder menggunakan bahasa yang berbeda-beda terdiri dari C++, PHP, Java, Phyton
+Masing-masing folder terdiri dari 4 file:
+1. Class Product
+2. Class Hardware
+3. Class Memory
+4. Main
+
